@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritesh Kumar Thakur</h1>
 
-<img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="50vw" />
+<img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="50px" />
 
 ## About me :mortar_board:
 
