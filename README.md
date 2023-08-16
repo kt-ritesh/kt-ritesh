@@ -1,15 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ritesh Kumar Thakur</h1>
-
-<h2 align="center">A passionate backend developer</h2>
-
-## About me :mortar_board:
-
+<h2>Hi 👋, there.......🎓</h2>
 <img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="300px" />
 
 
-<h3 align="justify" >Hello! I'm a dedicated Backend Developer with a passion for crafting efficient and robust software solutions. With a strong foundation in Java, Spring Boot, and Data Structures and Algorithms (DSA), I'm committed to creating high-quality applications that meet both user needs and industry standards. As a developer, I thrive on solving complex problems and turning them into elegant solutions. My curiosity and enthusiasm drive me to stay up-to-date with the latest trends and best practices in the field of backend development. I believe in writing clean, maintainable code that not only solves the immediate task but also contributes to the long-term success of projects.</h3>
+<h3 align="justify" >Hello! I'm Ritesh Kumar Thakur a dedicated Backend Developer with a passion for crafting efficient and robust software solutions. With a strong foundation in Java, Spring Boot, and Data Structures and Algorithms (DSA), I'm committed to creating high-quality applications that meet both user needs and industry standards. As a developer, I thrive on solving complex problems and turning them into elegant solutions. My curiosity and enthusiasm drive me to stay up-to-date with the latest trends and best practices in the field of backend development. I believe in writing clean, maintainable code that not only solves the immediate task but also contributes to the long-term success of projects.</h3>
 
-<hr>
+---
 
 - 🔭 I’m currently working on [Instagrm API](https://github.com/kt-ritesh/Instagrm_Backend)
 
@@ -19,7 +14,7 @@
 
 - 📫 How to reach me **ritesh123kumar081@gmail.com**
 
-- 📝 <a href=" https://docs.google.com/document/d/1L8pHlTA7mB3zOBcB29DhCe2WmXmbGyqIGTZmEHkun8k/edit?usp=sharing"> 
+- 📝 <a href="https://docs.google.com/document/d/1L8pHlTA7mB3zOBcB29DhCe2WmXmbGyqIGTZmEHkun8k/edit?usp=sharing"> 
 Resume</a>
 
 
