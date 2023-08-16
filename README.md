@@ -19,7 +19,8 @@
 
 - 📫 How to reach me **ritesh123kumar081@gmail.com**
 
-- 📄 Resume: [https://docs.google.com/document/d/1L8pHlTA7mB3zOBcB29DhCe2WmXmbGyqIGTZmEHkun8k/edit?usp=sharing](https://docs.google.com/document/d/1L8pHlTA7mB3zOBcB29DhCe2WmXmbGyqIGTZmEHkun8k/edit?usp=sharing)
+- 📝 <a href=" https://docs.google.com/document/d/1L8pHlTA7mB3zOBcB29DhCe2WmXmbGyqIGTZmEHkun8k/edit?usp=sharing"> 
+Resume</a>
 
 <hr>
 
