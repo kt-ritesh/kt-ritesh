@@ -16,7 +16,7 @@
 
 - 🧑‍💻All my projects available at [GitHub](https://github.com/kt-ritesh)
 
-- 💬 Ask me about **Spring Boot, Java, MySQL**
+- 💬 Ask me about **Spring Boot, Java, MySQL, DSA**
 
 - 📫 How to reach me **ritesh123kumar081@gmail.com**
 
